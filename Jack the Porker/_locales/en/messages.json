@@ -1,0 +1,10 @@
+{
+    "extension_name": {
+        "message": "Jack the Porker Extension",
+        "description": "For counting cards."
+    },
+    "extension_description": {
+        "message": "This is Jack the Porker Extension. Enjoy card games!",
+        "description": "This extension helps you to count cards."
+    }
+}
