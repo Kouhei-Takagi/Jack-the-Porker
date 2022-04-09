@@ -2,6 +2,9 @@
 This is for Google Chrome extensions.
 All codes in this extensions are here.
 
+Support page
+https://www.creatingfavoriteopinions.com/2022/04/jack-porker-support-page.html
+
 Chrome extension
 https://chrome.google.com/webstore/detail/jack-the-porker-extension/enpabbfcejieooigghfanfeoeeodfikb?hl=ja
 
